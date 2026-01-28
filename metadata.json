@@ -1,0 +1,8 @@
+{
+  "name": "SkillX: Innovate, Educate, Elevate",
+  "description": "A peer-to-peer skill exchange platform allowing users to trade knowledge through a secure, passkey-protected shared session environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
